@@ -1,2 +1,3 @@
-# indirect
-Automatic indirect shooting method and conjugate points computations
+# Indirect
+
+Automatic indirect imple shooting method and conjugate points computations.
